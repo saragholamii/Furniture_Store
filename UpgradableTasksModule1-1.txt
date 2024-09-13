@@ -1,0 +1,1 @@
+{"animationType":0,"taskMode":2,"taskIcons":null,"identifiers":["Couch_03","SofaRight_01","SofaLeft_02"],"description":"upgrade couch","requirements":null}
