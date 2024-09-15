@@ -1,0 +1,39 @@
+{
+  "player": {
+    "wallet": {
+      "coins": 1000
+    },
+    "furnitureList": [
+      {
+        "type": 1,
+        "price": 100
+      }
+    ]
+  },
+  "menuItems": [
+    {
+      "type": 1,
+      "price": 100,
+      "picturePath": "images/chair.png",
+      "isBought": false
+    },
+    {
+      "type": 2,
+      "price": 200,
+      "picturePath": "images/table.png",
+      "isBought": false
+    },
+    {
+      "type": 3,
+      "price": 500,
+      "picturePath": "images/sofa.png",
+      "isBought": false
+    },
+    {
+      "type": 4,
+      "price": 300,
+      "picturePath": "images/bed.png",
+      "isBought": false
+    }
+  ]
+}
